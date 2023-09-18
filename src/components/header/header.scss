@@ -1,0 +1,25 @@
+.header {
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 30px;
+  font-family: "OpenSansSemiBold";
+  font-size: 40px;
+  font-weight: 400;
+  text-align: center;
+  color: #ffffff;
+}
+
+.menu {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+
+  &__list {
+    display: flex;
+    margin: 0;
+    padding-left: 0;
+    list-style-type: none;
+  }
+}

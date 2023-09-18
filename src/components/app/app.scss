@@ -1,0 +1,15 @@
+.app {
+  display: flex;
+  height: 100vh;
+  background: #333333;
+  color: #ffffff;
+}
+
+.container {
+  position: fixed;
+  top: 36%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 728px;
+  margin: 0 auto;
+}

@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "OpenSans";
+  src: local("OpenSans"),
+    url("./fonts/OpenSans-Regular.ttf");
+  font-weight: 400;
+  }
+
+  @font-face {
+    font-family: "OpenSansSemiBold";
+    src: local("OpenSans"),
+      url("./fonts/OpenSans-SemiBold.ttf");
+    font-weight: 600;
+    }
+
+body {
+  margin: 0;
+  font-family: "OpenSans";
+  color: #ffffff;
+}

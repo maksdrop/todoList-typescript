@@ -1,0 +1,43 @@
+.menu {
+  margin-top: 40px;
+  padding: 0 10px;
+  font-size: 16px;
+  border-radius: 0 0 4px 4px;
+
+  &__list {
+    display: flex;
+    gap: 20px;
+  }
+
+  &__item {
+    position: relative;
+    padding: 6px 10px;
+    font-size: 16px;
+    color: #ffffff;
+    border: 0;
+    background: transparent;
+    cursor: pointer;
+
+    &:hover {
+      color: #757676;
+    }
+
+    &_active {
+      &:hover {
+        cursor: default;
+        color: #ffffff;
+      }
+
+      &::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: -1px;
+        width: 100%;
+        height: 100%;
+        border: 1px solid #ff9902;
+        border-radius: 4px;
+      }
+    }
+  }
+}
