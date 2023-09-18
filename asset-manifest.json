@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/todoList-typescript/static/css/main.b12f5734.css",
+    "main.js": "/todoList-typescript/static/js/main.15e9b58f.js",
+    "static/media/OpenSans-Regular.ttf": "/todoList-typescript/static/media/OpenSans-Regular.d7d7b8359eeb9cddfba6.ttf",
+    "static/media/OpenSans-SemiBold.ttf": "/todoList-typescript/static/media/OpenSans-SemiBold.d7261533b9a545ddc769.ttf",
+    "index.html": "/todoList-typescript/index.html",
+    "main.b12f5734.css.map": "/todoList-typescript/static/css/main.b12f5734.css.map",
+    "main.15e9b58f.js.map": "/todoList-typescript/static/js/main.15e9b58f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b12f5734.css",
+    "static/js/main.15e9b58f.js"
+  ]
+}
