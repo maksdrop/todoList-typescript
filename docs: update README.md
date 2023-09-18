@@ -1,12 +1,8 @@
-<h1 style="text-align: center; font-size: 42px;">TodoList</h1>
-
----
+<h1 align="center" style="font-size: 42px;">TodoList</h1>
 
 ![](https://d1.skrinshoter.ru/s/180923/LhftutHZ.jpg?view=1&name=Скриншот-18-09-2023%2019:14:03.jpg)
 
-<h2 style="text-align: center;"><a href="https://maksdrop.github.io/todoList-typescript">Live Demo</a></h2>
-
----
+<h2 align="center"><a href="https://maksdrop.github.io/todoList-typescript">Live Demo</a></h2>
 
 ## Description
 
